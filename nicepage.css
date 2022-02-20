@@ -34775,7 +34775,20 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 .u-footer .u-sheet-1 {
-  min-height: 10px;
+  min-height: 120px;
+}
+
+.u-footer .u-social-icons-1 {
+  height: 32px;
+  min-height: 16px;
+  width: 32px;
+  min-width: 16px;
+  white-space: nowrap;
+  margin: 44px auto;
+}
+
+.u-footer .u-icon-1 {
+  height: 100%;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
