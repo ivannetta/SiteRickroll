@@ -28,7 +28,7 @@ label
   
 button
 {
-font-size: 40px; border-radius: 0px; color: rgb(0, 0, 0); transition-duration: 0.5s; width: 435px; color: rgb(0, 0, 0); 
+font-size: 40px; border-radius: 0px; color: rgb(0, 0, 0); transition-duration: 0.5s; width: 500px; color: rgb(0, 0, 0); 
 text-align: center;}
 
 
@@ -41,7 +41,7 @@ button:hover {
 
 
 .submit
-{color: rgb(255, 255, 255);}
+{color: rgb(0, 0, 0);}
 
 
 
