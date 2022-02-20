@@ -4,23 +4,24 @@ a{display: flex;}
 
 input
 {
-    font-size: 40px; border-radius: 20px;;
+    font-size: 40px; border-radius: 1px;;
 
 }
 
 
 body {
-    margin: 0;
+  margin-left: 50px;
+    margin: 30px;
     background-color: hsl(0, 0%, 13%);
     color: hsl(0, 0%, 100%);
     line-height: 1.5;
     font-family: "PT Sans", Calibri, Tahoma, sans-serif;
     font-size: 40px;
-    text-align: center; 
+    text-align:left ; 
   }
 .border
 {
-border-style: line; color: white; margin-right: 650px; margin-left: 10px; border-radius: 25px; background-color: white; height: 500px;
+border-style: line; color: white; margin-right: 1465px; margin-left: 0px; border-radius: 25px; background-color: white; height: 500px;
 
 }
 
@@ -31,13 +32,16 @@ label
   
 button
 {
-font-size: 40px; border-radius: 12px; color: rgb(0, 0, 0); transition-duration: 0.5s; width: 390px; color: rgb(0, 0, 0); }
+font-size: 40px; border-radius: 12px; color: rgb(0, 0, 0); transition-duration: 0.5s; width: 390px; color: rgb(0, 0, 0); 
+text-align: center;}
+
 
 
 button:hover {
   background-color: #272727; 
   color: white;
 }
+
 
 
 .submit
