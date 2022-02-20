@@ -1,0 +1,58 @@
+
+input
+{
+    font-size: 40px; border-radius: 20px;;
+
+}
+
+
+body {
+    margin: 0;
+    background-color: hsl(0, 0%, 13%);
+    color: hsl(0, 0%, 100%);
+    line-height: 1.5;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
+    font-size: 40px;
+    text-align: center; 
+  }
+.border
+{
+border-style: line; color: white; margin-right: 650px; margin-left: 650px; border-radius: 25px; background-color: white; height: 500px;
+
+}
+
+label
+{
+    color: black
+}
+  
+button
+{
+font-size: 40px; border-radius: 12px; color: rgb(39, 39, 39); transition-duration: 0.5s; }
+
+
+button:hover {
+  background-color: #272727; 
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
