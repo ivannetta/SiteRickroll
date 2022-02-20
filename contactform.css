@@ -20,7 +20,7 @@ body {
   }
 .border
 {
-border-style: line; color: white; margin-right: 650px; margin-left: 650px; border-radius: 25px; background-color: white; height: 500px;
+border-style: line; color: white; margin-right: 650px; margin-left: 10px; border-radius: 25px; background-color: white; height: 500px;
 
 }
 
