@@ -1,6 +1,6 @@
 function play() {
     let div = document.getElementById("tmpInteract");
-    let video = document.getElementById("video");
+    let video = document.getElementById("video"); //???
     div.remove();
     video.removeAttribute("hidden")
     video.play();
