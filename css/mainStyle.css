@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
+.Clickme {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    font-family: 'Rubik', sans-serif;
+    color: goldenrod;
+    text-align: center;
+    font-weight: bold;
+    font-size: 420px;
+}
+
+.importantvideo {
+    margin: 0 auto;
+    width: 40%;
+    /* widht:40vw */
+    display: block;
+}
