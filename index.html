@@ -3,7 +3,6 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Get Rickrolled</title>
     <script src="js/play.js"></script>
@@ -14,7 +13,9 @@
 
 <body>
     <div class="Clickme" id="tmpInteract" onclick="play()">Click Me!</div>
-    <video id="importantvideo" src="files/Important Video.mp4" hidden loop width="100%"></video>
+    <div id="importantvideo">
+        <video id="video" src="files/Important Video.mp4" hidden loop width="100%"></video>
+    </div>
     <!--p onclick="muteSetter()">Unmute</p>
     <p >Play</p-->
 </body>

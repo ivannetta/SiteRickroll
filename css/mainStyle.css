@@ -11,12 +11,11 @@
     color: goldenrod;
     text-align: center;
     font-weight: bold;
-    font-size: 420px;
+    font-size: 7rem;
 }
 
 .importantvideo {
     margin: 0 auto;
-    width: 40%;
-    /* widht:40vw */
+    width: 100%;
     display: block;
 }
